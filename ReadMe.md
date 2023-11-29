@@ -20,4 +20,5 @@ sudo apt-get update && sudo apt-get install iozone3
 make
 ```
 
+-   실험 수행 전 `Makefile` 의 `TEST_TYPES` 에 다른 테스트 연산 추가
 -   `result` 폴더의 실험 결과를 바탕으로 보고서 작성
